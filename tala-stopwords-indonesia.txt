@@ -19,10 +19,7 @@ andalah
 antar
 antara
 antaranya
-apa
-apaan
 apabila
-apakah
 apalagi
 apatah
 artinya
@@ -44,7 +41,6 @@ bagian
 bahkan
 bahwa
 bahwasanya
-baik
 bakal
 bakalan
 balik
@@ -52,7 +48,6 @@ banyak
 bapak
 baru
 bawah
-beberapa
 begini
 beginian
 beginikah
@@ -73,10 +68,6 @@ berada
 berakhir
 berakhirlah
 berakhirnya
-berapa
-berapakah
-berapalah
-berapapun
 berarti
 berawal
 berbagai
@@ -103,8 +94,6 @@ bersama
 bersama-sama
 bersiap
 bersiap-siap
-bertanya
-bertanya-tanya
 berturut
 berturut-turut
 bertutur
@@ -117,12 +106,9 @@ biasa
 biasanya
 bila
 bilakah
-bisa
-bisakah
 boleh
 bolehkah
 bolehlah
-buat
 bukan
 bukankah
 bukanlah
@@ -158,8 +144,6 @@ diantaranya
 diberi
 diberikan
 diberikannya
-dibuat
-dibuatnya
 didapat
 didatangkan
 digunakan
@@ -169,8 +153,6 @@ diingat
 diingatkan
 diinginkan
 dijawab
-dijelaskan
-dijelaskannya
 dikarenakan
 dikatakan
 dikatakannya
@@ -202,7 +184,6 @@ diperlihatkan
 diperlukan
 diperlukannya
 dipersoalkan
-dipertanyakan
 dipunyai
 diri
 dirinya
@@ -214,9 +195,6 @@ disini
 disinilah
 ditambahkan
 ditandaskan
-ditanya
-ditanyai
-ditanyakan
 ditegaskan
 ditujukan
 ditunjuk
@@ -279,8 +257,6 @@ jauh
 jawab
 jawaban
 jawabnya
-jelas
-jelaskan
 jelaslah
 jelasnya
 jika
@@ -320,8 +296,6 @@ kelamaan
 kelihatan
 kelihatannya
 kelima
-keluar
-kembali
 kemudian
 kemungkinan
 kemungkinannya
@@ -375,8 +349,6 @@ masih
 masihkah
 masing
 masing-masing
-mau
-maupun
 melainkan
 melakukan
 melalui
@@ -386,13 +358,11 @@ memang
 memastikan
 memberi
 memberikan
-membuat
 memerlukan
 memihak
 meminta
 memintakan
 memisalkan
-memperbuat
 mempergunakan
 memperkirakan
 memperlihatkan
@@ -437,7 +407,6 @@ mengucapkannya
 mengungkapkan
 menjadi
 menjawab
-menjelaskan
 menuju
 menunjuk
 menunjuki
@@ -546,7 +515,6 @@ sebegitu
 sebelum
 sebelumnya
 sebenarnya
-seberapa
 sebesar
 sebetulnya
 sebisanya
@@ -654,9 +622,6 @@ setinggi
 seusai
 sewaktu
 siap
-siapa
-siapakah
-siapapun
 sini
 sinilah
 soal
@@ -668,7 +633,6 @@ sudahlah
 supaya
 tadi
 tadinya
-tahu
 tahun
 tak
 tambah
@@ -678,9 +642,6 @@ tampaknya
 tandas
 tandasnya
 tanpa
-tanya
-tanyakan
-tanyanya
 tapi
 tegas
 tegasnya
